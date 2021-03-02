@@ -2,8 +2,60 @@ Collection of CTF pwn challenges.
 
 | CTF                      | Event     | Writeups     |
 |--------------------------|-----------|--------------|
-| [TokyoWesterns](TokyoWesterns/2020) | [CTFtime](https://ctftime.org/event/1086) | [CTFtime](https://ctftime.org/event/1086/tasks/) |
-| [DownUnderCTF](DownUnderCTF/2020) | [CTFtime](https://ctftime.org/event/1084) | [CTFtime](https://ctftime.org/event/1084/tasks/) |
+| [Aero 2021](Aero/2021) | [CTFtime](https://ctftime.org/event/1224) | [CTFtime](https://ctftime.org/event/1224/tasks/) |
+| [darkCON 2021](darkCON/2021) | [CTFtime](https://ctftime.org/event/1250) | [CTFtime](https://ctftime.org/event/1250/tasks/) |
+| [Union 2021](Union/2021) | [CTFtime](https://ctftime.org/event/1246) | [CTFtime](https://ctftime.org/event/1246/tasks/) |
+| [Tenable 2021](Tenable/2021) | [CTFtime](https://ctftime.org/event/1266) | [CTFtime](https://ctftime.org/event/1266/tasks/) |
+| [TrollCAT 2021](TrollCAT/2021) | [CTFtime](https://ctftime.org/event/1257) | [CTFtime](https://ctftime.org/event/1257/tasks/) |
+| [DiceCTF 2021](DiceCTF/2021) | [CTFtime](https://ctftime.org/event/1236) | [CTFtime](https://ctftime.org/event/1236/tasks/) |
+| [justCTF 2021](justCTF/2021) | [CTFtime](https://ctftime.org/event/1050) | [CTFtime](https://ctftime.org/event/1050/tasks/) |
+| [0x41414141 2021](0x41414141/2021) | [CTFtime](https://ctftime.org/event/1249) | [CTFtime](https://ctftime.org/event/1249/tasks/) |
+| [StarCTF 2021](StarCTF/2021) | [CTFtime](https://ctftime.org/event/1242) | [CTFtime](https://ctftime.org/event/1242/tasks/) |
+| [BambooFox 2021](BambooFox/2021) | [CTFtime](https://ctftime.org/event/1234) | [CTFtime](https://ctftime.org/event/1234/tasks/) |
+| [0xL4ugh 2021](0xL4ugh/2021) | [CTFtime](https://ctftime.org/event/1248) | [CTFtime](https://ctftime.org/event/1248/tasks/) |
+| [RealWorldCTF 2021](RealWorldCTF/2021) | [CTFtime](https://ctftime.org/event/1198) | [CTFtime](https://ctftime.org/event/1198/tasks/) |
+| [TetCTF 2021](TetCTF/2021) | [CTFtime](https://ctftime.org/event/1213) | [CTFtime](https://ctftime.org/event/1213/tasks/) |
+| [HXP 2020](HXP/2020) | [CTFtime](https://ctftime.org/event/1134) | [CTFtime](https://ctftime.org/event/1134/tasks/) |
+| [VULNCON 2020](VULNCON/2020) | [CTFtime](https://ctftime.org/event/1149) | [CTFtime](https://ctftime.org/event/1149/tasks/) |
+| [BSidesAlgiers 2020 Quals](BSidesAlgiers/2020/Quals) | [CTFtime](https://ctftime.org/event/1220) | [CTFtime](https://ctftime.org/event/1220/tasks/) |
+| [ASIS 2020 Finals](ASIS/2020/Finals) | [CTFtime](https://ctftime.org/event/1111) | [CTFtime](https://ctftime.org/event/1111/tasks/) |
+| [X-MAS 2020](X-MAS/2020) | [CTFtime](https://ctftime.org/event/1209) | [CTFtime](https://ctftime.org/event/1209/tasks/) |
+| [kksctf 2020](kksctf/2020) | [CTFtime](https://ctftime.org/event/1112) | [CTFtime](https://ctftime.org/event/1112/tasks/) |
+| [boot2root 2020](boot2root/2020) | [CTFtime](https://ctftime.org/event/1202) | [CTFtime](https://ctftime.org/event/1202/tasks/) |
+| [DefCamp 2020](DefCamp/2020) | [CTFtime](https://ctftime.org/event/1182) | [CTFtime](https://ctftime.org/event/1182/tasks/) |
+| [pbctf 2020](pbctf/2020) | [CTFtime](https://ctftime.org/event/1121) | [CTFtime](https://ctftime.org/event/1121/tasks/) |
+| [Shakti 2020](Shakti/2020) | [CTFtime](https://ctftime.org/event/1141) | [CTFtime](https://ctftime.org/event/1141/tasks/) |
+| [HITCON 2020 Quals](HITCON/2020/Quals) | [CTFtime](https://ctftime.org/event/1136) | [CTFtime](https://ctftime.org/event/1136/tasks/) |
+| [SPbCTF 2020 Quals](SPbCTF/2020/Quals) | [CTFtime](https://ctftime.org/event/1188) | [CTFtime](https://ctftime.org/event/1188/tasks/) |
+| [Dragon 2020](Dragon/2020) | [CTFtime](https://ctftime.org/event/1082) | [CTFtime](https://ctftime.org/event/1082/tasks/) |
+| [LedgerDonjon 2020](LedgerDonjon/2020) | [CTFtime](https://ctftime.org/event/1173) | [CTFtime](https://ctftime.org/event/1173/tasks/) |
+| [m0leCon 2020 Finals](m0leCon/2020/Finals) | [CTFtime](https://ctftime.org/event/1135) | [CTFtime](https://ctftime.org/event/1135/tasks/) |
+| [Square 2020](Square/2020) | [CTFtime](https://ctftime.org/event/1174) | [CTFtime](https://ctftime.org/event/1174/tasks/) |
+| [Layer7 2020](Layer7/2020) | [CTFtime](https://ctftime.org/event/1179) | [CTFtime](https://ctftime.org/event/1179/tasks/) |
+| [Balsn 2020](Balsn/2020) | [CTFtime](https://ctftime.org/event/1122) | [CTFtime](https://ctftime.org/event/1122/tasks/) |
+| [Sunshine 2020](Sunshine/2020) | [CTFtime](https://ctftime.org/event/992) | [CTFtime](https://ctftime.org/event/992/tasks/) |
+| [KipodAfterFree 2020](KipodAfterFree/2020) | [CTFtime](https://ctftime.org/event/1133) | [CTFtime](https://ctftime.org/event/1133/tasks/) |
+| [NACTF 2020](NACTF/2020) | [CTFtime](https://ctftime.org/event/1157) | [CTFtime](https://ctftime.org/event/1157/tasks/) |
+| [CyberYoddha 2020](CyberYoddha/2020) | [CTFtime](https://ctftime.org/event/1169) | [CTFtime](https://ctftime.org/event/1169/tasks/) |
+| [CyberSecurityRumble 2020](CyberSecurityRumble/2020) | [CTFtime](https://ctftime.org/event/1057) | [CTFtime](https://ctftime.org/event/1057/tasks/) |
+| [RaziCTF 2020](RaziCTF/2020) | [CTFtime](https://ctftime.org/event/1167) | [CTFtime](https://ctftime.org/event/1167/tasks/) |
+| [Hack.lu 2020](Hack.lu/2020) | [CTFtime](https://ctftime.org/event/1142) | [CTFtime](https://ctftime.org/event/1142/tasks/) |
+| [HackTheVote 2020](HackTheVote/2020) | [CTFtime](https://ctftime.org/event/1017) | [CTFtime](https://ctftime.org/event/1017/tasks/) |
+| [MetaCTF 2020](MetaCTF/2020) | [CTFtime](https://ctftime.org/event/1106) | [CTFtime](https://ctftime.org/event/1106/tasks/) |
+| [SyskronSecurity 2020](SyskronSecurity/2020) | [CTFtime](https://ctftime.org/event/1148) | [CTFtime](https://ctftime.org/event/1148/tasks/) |
+| [N1CTF 2020](N1CTF/2020) | [CTFtime](https://ctftime.org/event/1099) | [CTFtime](https://ctftime.org/event/1099/tasks/) |
+| [SECCON 2020 Quals](SECCON/2020/Quals) | [CTFtime](https://ctftime.org/event/1119) | [CTFtime](https://ctftime.org/event/1119/tasks/) |
+| [BSidesDelhi 2020](BSidesDelhi/2020) | [CTFtime](https://ctftime.org/event/1158) | [CTFtime](https://ctftime.org/event/1158/tasks/) |
+| [DamCTF 2020](DamCTF/2020) | [CTFtime](https://ctftime.org/event/1076) | [CTFtime](https://ctftime.org/event/1076/tasks/) |
+| [b01lers 2020](b01lers/2020) | [CTFtime](https://ctftime.org/event/1089) | [CTFtime](https://ctftime.org/event/1089/tasks/) |
+| [Tasteless 2020](Tasteless/2020) | [CTFtime](https://ctftime.org/event/1124) | [CTFtime](https://ctftime.org/event/1124/tasks/) |
+| [MCTF 2020 Quals](MCTF/2020/Quals) | [CTFtime](https://ctftime.org/event/1138) | [CTFtime](https://ctftime.org/event/1138/tasks/) |
+| [BSidesBOS 2020](BSidesBOS/2020) | [CTFtime](https://ctftime.org/event/1125) | [CTFtime](https://ctftime.org/event/1125/tasks/) |
+| [BalCCon 2020](BalCCon/2020) | [CTFtime](https://ctftime.org/event/1100) | [CTFtime](https://ctftime.org/event/1100/tasks/) |
+| [EvlzCTF 2020](EvlzCTF/2020) | [CTFtime](https://ctftime.org/event/1070) | [CTFtime](https://ctftime.org/event/1070/tasks/) |
+| [DarkCTF 2020](DarkCTF/2020) | [CTFtime](https://ctftime.org/event/1118) | [CTFtime](https://ctftime.org/event/1118/tasks/) |
+| [TokyoWesterns 2020](TokyoWesterns/2020) | [CTFtime](https://ctftime.org/event/1086) | [CTFtime](https://ctftime.org/event/1086/tasks/) |
+| [DownUnderCTF 2020](DownUnderCTF/2020) | [CTFtime](https://ctftime.org/event/1084) | [CTFtime](https://ctftime.org/event/1084/tasks/) |
 | [CSAW 2020 Quals](CSAW/2020/Quals) | [CTFtime](https://ctftime.org/event/1079) | [CTFtime](https://ctftime.org/event/1079/tasks/) |
 | [CONFidence 2020 Finals](CONFidence/2020/Finals) | [CTFtime](https://ctftime.org/event/1090) | [CTFtime](https://ctftime.org/event/1090/tasks/) |
 | [ALLES 2020](ALLES/2020) | [CTFtime](https://ctftime.org/event/1091) | [CTFtime](https://ctftime.org/event/1091/tasks/) |
@@ -122,7 +174,7 @@ Collection of CTF pwn challenges.
 | [ASIS 2019 Quals](ASIS/2019/Quals) | [CTFtime](https://ctftime.org/event/732) | [CTFtime](https://ctftime.org/event/732/tasks/) |
 | [ASIS 2019 Finals](ASIS/2019/Finals) | [CTFtime](https://ctftime.org/event/805) | [CTFtime](https://ctftime.org/event/805/tasks/) |
 | [0CTF/TCTF 2019 Quals](0CTF/2019/Quals) | [CTFtime](https://ctftime.org/event/736) | [CTFtime](https://ctftime.org/event/736/tasks/) |
-| [XMAS 2018](XMAS/2018) | [CTFtime](https://ctftime.org/event/724) | [CTFtime](https://ctftime.org/event/724/tasks/) |
+| [X-MAS 2018](X-MAS/2018) | [CTFtime](https://ctftime.org/event/724) | [CTFtime](https://ctftime.org/event/724/tasks/) |
 | [WhiteHat 2018 Quals](WhiteHat/2018/Quals) | [CTFtime](https://ctftime.org/event/656) | [CTFtime](https://ctftime.org/event/656/tasks/) [PersianCats](https://github.com/sajjadium/PersianCatsCTF/tree/master/WhiteHat/2018/Quals) |
 | [WPICTF 2018](WPICTF/2018) | [CTFtime](https://ctftime.org/event/600) | [CTFtime](https://ctftime.org/event/600/tasks/) [PersianCats](https://github.com/sajjadium/PersianCatsCTF/tree/master/WPICTF/2018) |
 | [VolgaCTF 2018 Quals](VolgaCTF/2018/Quals) | [CTFtime](https://ctftime.org/event/539) | [CTFtime](https://ctftime.org/event/539/tasks/) |
